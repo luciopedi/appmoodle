@@ -1,11 +1,11 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "br.edu.moodle.fcb",
+    "appname": "CASTELO BRANCO VIRTUAL",
+    "desktopappname": "CB VIRTUAL Desktop",
     "versioncode": 3610,
     "versionname": "3.6.1",
     "cache_expiration_time": 300000,
-    "default_lang": "en",
+    "default_lang": "pt-br",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -66,7 +66,7 @@
         }
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://ead.fcb.edu.br",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
